@@ -232,7 +232,7 @@ define(function(){
 		{
 			artist: "Bonde Do Role"
 			track: "Office Boy (CSS Remix)",
-			uri: "6YQCMUdW7FxMthpE5Iz5Z7"
+			uri: "6YQCMUdW7FxMthpE5Iz5Z7",
 			bpm: 130
 		}
 			{
@@ -244,7 +244,7 @@ define(function(){
 		{
 			artist: "Rokysopp & Robyn"
 			track: "Do it Again",
-			uri: "4y8XhpQ7YqFLyz2o7c7r7X"
+			uri: "4y8XhpQ7YqFLyz2o7c7r7X",
 			bpm: 123.918
 		}
 	];

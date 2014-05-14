@@ -235,6 +235,18 @@ define(function(){
 			uri: "6YQCMUdW7FxMthpE5Iz5Z7"
 			bpm: 130
 		}
+			{
+			artist: "Daft Punk",
+			track: "Instant Crush,
+			uri: "2cGxRwrMyEAp8dEbuZaVv6",
+			bpm: 109.98
+		},
+		{
+			artist: "Rokysopp & Robyn"
+			track: "Do it Again",
+			uri: "4y8XhpQ7YqFLyz2o7c7r7X"
+			bpm: 123.918
+		}
 	];
 
 	return EDMSongs;
